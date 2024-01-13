@@ -1,11 +1,9 @@
-# economic-uncertainty-linguistic-analysis
- This repository houses the Python code and research materials for an in-depth analysis of linguistic patterns during periods of economic uncertainty. Using Natural Language Processing (NLP) techniques and economic tools, the study examines language use in newspapers, government communications, and public discourse between 2018 and 2022 in Argentina. The goal is to uncover correlations between linguistic styles and economic indicators, providing insights into the relationship between language and economic uncertainty.
-
 # Economic Uncertainty Linguistic Analysis
 
 ## Overview
+This repository houses the Python code and research materials for an in-depth analysis of linguistic patterns during periods of economic uncertainty. Using Natural Language Processing (NLP) techniques and economic tools, the study examines language use in newspapers, government communications, and public discourse between 2018 and 2022 in Argentina. The goal is to uncover correlations between linguistic styles and economic indicators, providing insights into the relationship between language and economic uncertainty.
+The goal is to uncover the relationship between economic indicators and linguistic styles, which act as fingerprints of ourselves. They carry insight about our feelings, our self-concept, our social intelligence and topics of interest.
 
-This project delves into the intersection of linguistics, economics, and data science to explore how language evolves during periods of economic uncertainty. By analyzing linguistic patterns in three groups: newspapers/news channels, government communications, and public discourse from reddit. We aim to uncover valuable insights into the relationship between language and economic conditions.
 ## References
 
 - Author Alfonso Sundblad
@@ -23,11 +21,11 @@ This project delves into the intersection of linguistics, economics, and data sc
 
 ## Context
 
-The research is conducted by Alfonso Sundblad as a graduate thesis in economics conducted at Universidad de San Andres(UdeSa) under the guidance of Osama Khalid.
+The research is conducted by Alfonso Sundblad as a graduate thesis in economics conducted at Universidad de San Andres(UdeSa) under the guidance of Osama Khalid. SPanish LIWC used for economic analisys is not a topic explored.
 
 ## Getting Started
 
-To explore the code and findings, refer to the sections in this repository. The [How to Use the Code](#how-to-use-the-code) section provides instructions for running the Python code.
+To explore the code and findings, refer to the sections in this repository. The [How to Use the Code](#how-to-use-the-code) section provides instructions for running the Python code. Each section containes a careful README  
 
 ## Contributions
 
