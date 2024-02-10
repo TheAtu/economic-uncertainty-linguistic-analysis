@@ -17,6 +17,8 @@ It Contains each significant step of the processing using the naming condition, 
 
 - **03-Final:** Contains only data that is relevant and will not be further processed or analysed.
 
+- **99-Auxiliar:** Contains data that is not categorizable to the previous distribution, mainly auxiliary files or data. i.e: dictionary of Spanish LIWC. It should not be data that will be processed.  
+
 ### Naming Convention
 • Always use **lower case** </br>
 • Try using non-conjugated words and their singular version.</br>
